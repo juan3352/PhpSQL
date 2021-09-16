@@ -13,6 +13,7 @@ and open the template in the editor.
         <title>Mi blog</title>
         <link rel="stylesheet" href="estilos/estilos.css"/>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     </head>
     <body class="principal">
@@ -30,7 +31,7 @@ and open the template in the editor.
                                 <li><a href="index.php" style="color:aqua;">Principal</a></li>
                                 <li><a href="general.php" style="color:aqua;">Datos generales</a></li>
                                 <li><a href="metas.php" style="color:aqua;">Metas</a></li>
-
+                                <li><a href="login.php" style="color:aqua;">Login</a></li>
                             </ul>
                         </nav>
                     </div>
